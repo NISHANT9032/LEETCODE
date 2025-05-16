@@ -1,47 +1,50 @@
+vector<int> adj[1000];
 class Solution {
 public:
-    vector<string> getWordsInLongestSubsequence(vector<string>& words, vector<int>& groups) {
-        unordered_map<string, vector<string>> memo;
-        int n = words.size();
-        vector<string> best;
-
-        for (int i = 0; i < n; ++i) {
-            vector<string> res = {words[i]};
-            auto rest = helper(i + 1, groups[i], words[i], words, groups, memo);
-            res.insert(res.end(), rest.begin(), rest.end());
-            if (res.size() > best.size()) best = res;
-        }
-
-        return best;
+    static bool hamming1(string& s, string& t){
+        const int sz=s.size();
+        if (sz!=t.size()) return 0;
+        int diff=0;
+        for (int i=0; i<sz && diff<2; i++)
+            diff+=s[i]!= t[i];
+        return diff==1;
     }
+    static vector<string> getWordsInLongestSubsequence(vector<string>& words, vector<int>& groups) {
+        const int n=words.size();
+        vector<int> deg(n, 0), prev(n, -1);
 
-private:
-    vector<string> helper(int i, int lastGroup, string lastWord,
-                          vector<string>& words, vector<int>& groups,
-                          unordered_map<string, vector<string>>& memo) {
-        if (i >= words.size()) return {};
-        string key = to_string(i) + "|" + to_string(lastGroup) + "|" + lastWord;
-        if (memo.count(key)) return memo[key];
-
-        vector<string> take, skip;
-        if (words[i].size() == lastWord.size() &&
-            hamming(words[i], lastWord) &&
-            groups[i] != lastGroup) {
-            take.push_back(words[i]);
-            auto temp = helper(i + 1, groups[i], words[i], words, groups, memo);
-            take.insert(take.end(), temp.begin(), temp.end());
+        //Kahn's algo
+        for (int i=0; i<n; i++) {//Build adjacent list
+            adj[i].clear();
+            for (int j=0; j<i; j++) {
+                if (groups[i]!=groups[j] && hamming1(words[i], words[j])) {
+                    adj[i].push_back(j);// directed edge (j, i)
+                    deg[j]++;// indegree 
+                }
+            }
+        }
+        // BFS
+        queue<int> q;
+        for (int i = 0; i < n; i++) {
+            if (deg[i]==0) q.push(i);
         }
 
-        skip = helper(i + 1, lastGroup, lastWord, words, groups, memo);
-        memo[key] = (take.size() > skip.size()) ? take : skip;
-        return memo[key];
-    }
-
-    bool hamming(string& a, string& b) {
-        int diff = 0;
-        for (int i = 0; i < a.size(); ++i) {
-            if (a[i] != b[i]) diff++;
+        int iMax= 0;
+        while (!q.empty()) {
+            int x=q.front();
+            q.pop();
+            for (int y : adj[x]) {
+                if (--deg[y] == 0) {
+                    q.push(y);
+                    prev[y]=x;//assign prev
+                }
+            }
+            iMax=x;
         }
-        return diff == 1;
+        vector<string> ans;
+        for (int j=iMax; j!=-1; j=prev[j]) {
+            ans.push_back(words[j]);
+        }
+        return ans;
     }
 };
