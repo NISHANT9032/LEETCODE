@@ -18,7 +18,7 @@ public:
             if(curr->left)
             { 
                 TreeNode* prev = curr->left;
-                if(prev->right) prev= prev->right;
+                while(prev->right) prev= prev->right;
                 prev->right = curr->right;
                 curr->right= curr->left;
                 curr->left = NULL;
