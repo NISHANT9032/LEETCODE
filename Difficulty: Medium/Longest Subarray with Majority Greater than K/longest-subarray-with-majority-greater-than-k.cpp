@@ -1,61 +1,20 @@
-//{ Driver Code Starts
-#include <bits/stdc++.h>
-using namespace std;
-
-
-// } Driver Code Ends
-
-// User function Template for C++
 class Solution {
   public:
     int longestSubarray(vector<int> &arr, int k) {
         // Code here
-        int n = arr.size();
-        int ans = 0;
-        int cnt = 0;
+         int var = 0, ans = 0;
+        vector<int> store{-1};
         
-        unordered_map <int, int> mp;
-        for(int i = -n-1; i <= n+1; i++) mp[i] = -1;
-        
-        mp[0] = 0;
-        for(int i = 0; i < n; i++){
-            cnt += (arr[i] > k);
-            cnt -= (arr[i] <= k);
+        for(int i = 0; i < arr.size(); i++)
+        {
+            var += (arr[i]>k ? 1 : -1);
             
-            if(mp[cnt] == -1) mp[cnt] = i;
-            if(cnt > 0) ans = i+1;
-            else if(mp[cnt-1] != -1) ans = max(ans, i - mp[cnt-1]);
+            if(var>0) ans = i+1;
+            else if(1-var<store.size()) ans = max(ans,i-store[1-var]);
+            
+            if(store.size()==-var) store.push_back(i);
         }
         
         return ans;
-        
     }
 };
-
-
-//{ Driver Code Starts.
-
-int main() {
-    int t;
-    cin >> t;
-    cin.ignore();
-    while (t--) {
-        vector<int> arr;
-        string input;
-        getline(cin, input);
-        stringstream ss(input);
-        int number;
-        while (ss >> number) {
-            arr.push_back(number);
-        }
-        getline(cin, input);
-        int k = stoi(input);
-
-        Solution ob;
-        cout << ob.longestSubarray(arr, k) << endl;
-        cout << "~" << endl;
-    }
-    return 0;
-}
-
-// } Driver Code Ends
