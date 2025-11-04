@@ -1,17 +1,19 @@
 class Solution {
   public:
     int minCost(vector<int>& height) {
-        // Code here
-        int n = height.size();
-        vector<int>dp(n,0);
+       int n = height.size();
+        vector<int> dp(n + 1, INT_MAX);
         dp[0] = 0;
-        for(int i = 1 ; i< n ;i++)
-        { 
-            int fs = dp[i-1] + abs(height[i] - height[i-1]);
-            int ss = INT_MAX;
-            if(i > 1) ss = dp[i-2] + abs(height[i] - height[i-2]);
-            dp[i] = min(fs ,ss);
+        dp[1] = abs(height[1] - height[0]);
+
+        // DP transition
+        for (int i = 2; i < n; ++i) {
+            int oneStep = dp[i - 1] + abs(height[i] - height[i - 1]);
+            int twoStep = dp[i - 2] + abs(height[i] - height[i - 2]);
+            dp[i] = min(oneStep, twoStep);
         }
-        return dp[n-1];
+
+        return dp[n - 1];
+        
     }
 };
