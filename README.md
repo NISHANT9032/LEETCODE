@@ -37,6 +37,7 @@ Sliding Window
 | ------- | ------- |
 | [0001-two-sum](https://github.com/NISHANT9032/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/NISHANT9032/LEETCODE/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/NISHANT9032/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/NISHANT9032/LEETCODE/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/NISHANT9032/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
