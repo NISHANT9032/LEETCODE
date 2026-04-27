@@ -43,6 +43,7 @@ Sliding Window
 | ------- | ------- |
 | [0001-two-sum](https://github.com/NISHANT9032/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NISHANT9032/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/NISHANT9032/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,8 +57,10 @@ Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NISHANT9032/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/NISHANT9032/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NISHANT9032/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/NISHANT9032/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 <!---LeetCode Topics End-->
