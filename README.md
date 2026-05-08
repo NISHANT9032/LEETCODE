@@ -38,6 +38,7 @@ Sliding Window
 | [0001-two-sum](https://github.com/NISHANT9032/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/NISHANT9032/LEETCODE/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/NISHANT9032/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NISHANT9032/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Sliding Window
 | [0003-longest-substring-without-repeating-characters](https://github.com/NISHANT9032/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/NISHANT9032/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/NISHANT9032/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NISHANT9032/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +68,16 @@ Sliding Window
 | [0003-longest-substring-without-repeating-characters](https://github.com/NISHANT9032/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/NISHANT9032/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/NISHANT9032/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NISHANT9032/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NISHANT9032/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NISHANT9032/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 <!---LeetCode Topics End-->
