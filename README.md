@@ -38,6 +38,7 @@ Sliding Window
 | [0001-two-sum](https://github.com/NISHANT9032/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/NISHANT9032/LEETCODE/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/NISHANT9032/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NISHANT9032/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/NISHANT9032/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NISHANT9032/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NISHANT9032/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -94,4 +95,8 @@ Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NISHANT9032/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NISHANT9032/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
