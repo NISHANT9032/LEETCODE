@@ -41,6 +41,7 @@ Sliding Window
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NISHANT9032/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/NISHANT9032/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NISHANT9032/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/NISHANT9032/LEETCODE/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NISHANT9032/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3731-find-missing-elements](https://github.com/NISHANT9032/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -52,6 +53,7 @@ Sliding Window
 | [0217-contains-duplicate](https://github.com/NISHANT9032/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/NISHANT9032/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/NISHANT9032/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/NISHANT9032/LEETCODE/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NISHANT9032/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3731-find-missing-elements](https://github.com/NISHANT9032/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
@@ -99,4 +101,8 @@ Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NISHANT9032/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/NISHANT9032/LEETCODE/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 <!---LeetCode Topics End-->
