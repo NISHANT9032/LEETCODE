@@ -40,6 +40,7 @@ Sliding Window
 | [0056-merge-intervals](https://github.com/NISHANT9032/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NISHANT9032/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/NISHANT9032/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/NISHANT9032/LEETCODE/tree/main/0238-product-of-array-except-self/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NISHANT9032/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/NISHANT9032/LEETCODE/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NISHANT9032/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -105,4 +106,8 @@ Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/NISHANT9032/LEETCODE/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/NISHANT9032/LEETCODE/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
