@@ -85,6 +85,7 @@ Sliding Window
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/NISHANT9032/LEETCODE/tree/main/0836-rectangle-overlap/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NISHANT9032/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -110,4 +111,8 @@ Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/NISHANT9032/LEETCODE/tree/main/0238-product-of-array-except-self/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/NISHANT9032/LEETCODE/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
