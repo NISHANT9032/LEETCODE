@@ -61,6 +61,7 @@ Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/NISHANT9032/LEETCODE/tree/main/0015-3sum/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NISHANT9032/LEETCODE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ Sliding Window
 | [0076-minimum-window-substring](https://github.com/NISHANT9032/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0242-valid-anagram](https://github.com/NISHANT9032/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/NISHANT9032/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NISHANT9032/LEETCODE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,10 +101,12 @@ Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NISHANT9032/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NISHANT9032/LEETCODE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NISHANT9032/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NISHANT9032/LEETCODE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
