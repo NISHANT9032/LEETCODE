@@ -88,6 +88,7 @@ Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/NISHANT9032/LEETCODE/tree/main/0836-rectangle-overlap/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NISHANT9032/LEETCODE/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NISHANT9032/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -106,6 +107,7 @@ Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NISHANT9032/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NISHANT9032/LEETCODE/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NISHANT9032/LEETCODE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -115,8 +117,13 @@ Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/NISHANT9032/LEETCODE/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NISHANT9032/LEETCODE/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/NISHANT9032/LEETCODE/tree/main/0836-rectangle-overlap/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NISHANT9032/LEETCODE/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->
