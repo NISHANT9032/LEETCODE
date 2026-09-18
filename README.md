@@ -56,6 +56,7 @@ Sliding Window
 | [0242-valid-anagram](https://github.com/NISHANT9032/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/NISHANT9032/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NISHANT9032/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/NISHANT9032/LEETCODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3005-count-elements-with-maximum-frequency](https://github.com/NISHANT9032/LEETCODE/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NISHANT9032/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3731-find-missing-elements](https://github.com/NISHANT9032/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
@@ -71,6 +72,7 @@ Sliding Window
 | [0056-merge-intervals](https://github.com/NISHANT9032/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/NISHANT9032/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/NISHANT9032/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/NISHANT9032/LEETCODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3731-find-missing-elements](https://github.com/NISHANT9032/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -79,6 +81,7 @@ Sliding Window
 | [0076-minimum-window-substring](https://github.com/NISHANT9032/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0242-valid-anagram](https://github.com/NISHANT9032/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/NISHANT9032/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/NISHANT9032/LEETCODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NISHANT9032/LEETCODE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -104,6 +107,7 @@ Sliding Window
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/NISHANT9032/LEETCODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NISHANT9032/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NISHANT9032/LEETCODE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Dynamic Programming
