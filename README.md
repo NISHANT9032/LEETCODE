@@ -83,6 +83,7 @@ Sliding Window
 | [0424-longest-repeating-character-replacement](https://github.com/NISHANT9032/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/NISHANT9032/LEETCODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NISHANT9032/LEETCODE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/NISHANT9032/LEETCODE/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,4 +141,8 @@ Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NISHANT9032/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/NISHANT9032/LEETCODE/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
