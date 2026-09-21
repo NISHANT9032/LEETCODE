@@ -44,6 +44,7 @@ Sliding Window
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NISHANT9032/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NISHANT9032/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/NISHANT9032/LEETCODE/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/NISHANT9032/LEETCODE/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NISHANT9032/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3731-find-missing-elements](https://github.com/NISHANT9032/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -97,6 +98,7 @@ Sliding Window
 | [0836-rectangle-overlap](https://github.com/NISHANT9032/LEETCODE/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/NISHANT9032/LEETCODE/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NISHANT9032/LEETCODE/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/NISHANT9032/LEETCODE/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NISHANT9032/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -119,6 +121,7 @@ Sliding Window
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NISHANT9032/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NISHANT9032/LEETCODE/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NISHANT9032/LEETCODE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/NISHANT9032/LEETCODE/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
