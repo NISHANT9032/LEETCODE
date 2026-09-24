@@ -46,6 +46,7 @@ Sliding Window
 | [3005-count-elements-with-maximum-frequency](https://github.com/NISHANT9032/LEETCODE/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/NISHANT9032/LEETCODE/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/NISHANT9032/LEETCODE/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NISHANT9032/LEETCODE/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NISHANT9032/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3731-find-missing-elements](https://github.com/NISHANT9032/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -101,6 +102,7 @@ Sliding Window
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NISHANT9032/LEETCODE/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/NISHANT9032/LEETCODE/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/NISHANT9032/LEETCODE/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NISHANT9032/LEETCODE/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NISHANT9032/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
